@@ -1,5 +1,4 @@
 # Projeto - Portfólio - Aula
-<br>
 <h1> Meu Projeto de Portfólio para a Faculdade </h1>
 <hr>
 Olá a todos! Este é o meu projeto de portfólio que estou desenvolvendo como parte do meu trabalho para a faculdade. Como parte do meu curso, fui desafiado a criar um portfólio para um desenvolvedor de software fictício, utilizando apenas HTML e CSS.
