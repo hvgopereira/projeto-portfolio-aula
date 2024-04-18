@@ -9,7 +9,7 @@ https://github.com/hvgopereira/projeto-portfolio-aula/assets/162385532/d7705592-
 
 Com este projeto, estou explorando as possibilidades do HTML e CSS para criar uma experiência visualmente atraente e funcional para os visitantes do portfólio.
 
-Ao longo do processo de desenvolvimento, estou aprendendo a importância da estruturação semântica do HTML para acessibilidade e SEO, bem como as técnicas de estilização avançadas disponíveis no CSS para criar layouts responsivos e elegantes.
+Ao longo do processo de desenvolvimento, estou aprendendo a importância da estruturação semântica do HTML para acessibilidade e SEO, bem como as técnicas de estilizaçãodisponíveis no CSS para criar layouts funcionais e elegantes.
 
 Estou animado para compartilhar o resultado final deste projeto e espero que ele demonstre não apenas meu conhecimento técnico, mas também minha criatividade e dedicação ao desenvolvimento web.
 
