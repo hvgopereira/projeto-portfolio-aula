@@ -1,4 +1,4 @@
-# Meu Projeto de Portfólio para a Faculdade
+# Meu Projeto Web de Portfólio para a Faculdade
 
 https://github.com/hvgopereira/projeto-portfolio-aula/assets/162385532/d7705592-7946-4d4f-8ec7-b2af25dd166a
 
