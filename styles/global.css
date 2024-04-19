@@ -12,6 +12,10 @@
     text-decoration: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --bg-principal: #161616;
     --txt-princial: #f5f5f5;
@@ -23,8 +27,8 @@
 /* Header */
 .top-header {
     position: fixed;
-    top: 0;
-    left: 0;
+    /* top: 0;
+    left: 0; */
     width: 100%;
 
     display: flex;
@@ -60,6 +64,29 @@
     border-bottom: 1px solid transparent;
 }
 
+.top-header .btn-contact {
+    border: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 10px 2rem;
+    text-transform: uppercase;
+
+    color: var(--txt-princial);
+
+    background: transparent;
+    transition: all 0.3s;
+    cursor: pointer;
+    
+}
+
+.top-header .btn-contact:hover {
+    background: var(--txt-princial);
+    color: var(--txt-dark);
+    transform: translateY(-2px);
+
+    font-weight: 600;
+}
+
 /* LINKS HEADER:HOVER */
 
 .top-header nav ul li .home-link:hover {
@@ -89,30 +116,53 @@
 
 /* /LINKS HEADER:HOVER */
 
-.top-header .btn-contact {
-    border: none;
-    border: 1px solid white;
-    border-radius: 20px;
-    padding: 10px 2rem;
-    text-transform: uppercase;
-
-    color: var(--txt-princial);
-
-    background: transparent;
-    transition: all 0.3s;
-    cursor: pointer;
-    
-}
-
-.top-header .btn-contact:hover {
-    background: var(--txt-princial);
-    color: var(--txt-dark);
-
-    font-weight: 600;
-}
 /* /Header */
 
 /* Main */
+
+.midia-icons {
+    margin-right: 45rem;
+    background: white;
+    background-clip: text;
+    font-size: 40px;
+
+    
+    cursor: pointer;
+    gap: 15px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.midia-icons .bx {
+    font-size: 40px;
+    cursor: pointer;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s;
+}
+
+.midia-icons .bx:hover {
+    transform: scale(1.2);
+}
+
+.bxl-instagram:hover {
+    color: #E1306C; 
+}
+
+.bxl-github:hover {
+    color: #6e5494; 
+}
+
+.bxl-facebook:hover {
+    color: #3b5998; 
+}
+
+.bxl-linkedin:hover {
+    color: #0077B5; 
+}
+
 
 .main-menu {
     display: flex;
@@ -141,7 +191,7 @@
 
 .txt-main {
     position: absolute;
-    left: 25rem;
+    left: 28rem;
     line-height: 1;
 }
 
@@ -159,16 +209,13 @@
 
 }
 
-
 /* /Main */
 
 /* Main - About */
 .about {
-    padding: 0 20rem;
-    gap: rem;
+    padding: 10rem 20rem;
     text-align: right;
     
-    margin-top: 7rem;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -195,9 +242,10 @@ hr {
 }
 
 .experience {
-    padding: 0 5rem;
+    padding: 7rem 3rem;
     text-align: left;
     
+
     margin-top: 7rem;
     display: flex;
     justify-content: space-evenly;

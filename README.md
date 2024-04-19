@@ -1,15 +1,11 @@
-# Meu Projeto Web de Portfólio para a Faculdade
+# Projeto - Portfólio - Aula
+<h1> Meu Projeto de Portfólio para a Faculdade </h1>
 
-https://github.com/hvgopereira/projeto-portfolio-aula/assets/162385532/d7705592-7946-4d4f-8ec7-b2af25dd166a
-
-:red_circle:  <strong>NÃO É RESPONSIVO</strong> :red_circle:
-
-
-  Olá a todos!👋 Este é o meu projeto de portfólio que estou desenvolvendo como parte do meu trabalho para a faculdade. Como parte do meu curso, fui desafiado a criar um portfólio para um desenvolvedor de software fictício, utilizando apenas HTML e CSS.
+Olá a todos! Este é o meu projeto de portfólio que estou desenvolvendo como parte do meu trabalho para a faculdade. Como parte do meu curso, fui desafiado a criar um portfólio para um desenvolvedor de software fictício, utilizando apenas HTML e CSS.
 
 Com este projeto, estou explorando as possibilidades do HTML e CSS para criar uma experiência visualmente atraente e funcional para os visitantes do portfólio.
 
-Ao longo do processo de desenvolvimento, estou aprendendo a importância da estruturação semântica do HTML para acessibilidade e SEO, bem como as técnicas de estilizaçãodisponíveis no CSS para criar layouts funcionais e elegantes.
+Ao longo do processo de desenvolvimento, estou aprendendo a importância da estruturação semântica do HTML para acessibilidade e SEO, bem como as técnicas de estilização avançadas disponíveis no CSS para criar layouts responsivos e elegantes.
 
 Estou animado para compartilhar o resultado final deste projeto e espero que ele demonstre não apenas meu conhecimento técnico, mas também minha criatividade e dedicação ao desenvolvimento web.
 
