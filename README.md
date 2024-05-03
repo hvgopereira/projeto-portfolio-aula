@@ -4,7 +4,7 @@ https://github.com/hvgopereira/projeto-portfolio-aula/assets/162385532/d7705592-
 
 :red_circle:  <strong>NÃO É RESPONSIVO</strong> :red_circle:
 
-<img src="https://github.com/hvgopereira/netflix-remake/assets/162385532/1063be5e-a9fa-4aba-a6e5-ff5a99957761" min-width="150px" max-width="150px" width="150px" align="right" alt="Log Hugo Pereira" > </img>
+<img src="https://github.com/hvgopereira/netflix-remake/assets/162385532/1063be5e-a9fa-4aba-a6e5-ff5a99957761" min-width="150px" max-width="150px" width="150px" align="right" alt="Logo Hugo Pereira" > </img>
 
   Olá a todos!👋 Este é o meu projeto de portfólio que estou desenvolvendo como parte do meu trabalho para a faculdade. Como parte do meu curso, fui desafiado a criar um portfólio para um desenvolvedor de software fictício, utilizando apenas HTML e CSS.
 
